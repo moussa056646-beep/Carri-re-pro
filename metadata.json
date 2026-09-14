@@ -1,0 +1,6 @@
+{
+  "name": "Carrière Pro",
+  "description": "Carrière Pro centralise des conseils d'entretiens, des exemples de CV professionnels et un agrégateur d'offres d'emploi multi-secteurs avec monétisation AdMob optimisée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
